@@ -1,0 +1,10 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\bin\Debug\netcoreapp2.0\ValidID.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\bin\Debug\netcoreapp2.0\ValidID.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\bin\Debug\netcoreapp2.0\ValidID.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\bin\Debug\netcoreapp2.0\ValidID.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\bin\Debug\netcoreapp2.0\ValidID.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\obj\Debug\netcoreapp2.0\ValidID.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\obj\Debug\netcoreapp2.0\ValidID.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\obj\Debug\netcoreapp2.0\ValidID.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\obj\Debug\netcoreapp2.0\ValidID.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\ValidID\ValidID\obj\Debug\netcoreapp2.0\ValidID.pdb

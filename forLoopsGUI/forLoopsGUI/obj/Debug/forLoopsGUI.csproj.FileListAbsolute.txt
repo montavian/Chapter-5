@@ -1,0 +1,10 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\bin\Debug\forLoopsGUI.exe.config
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\bin\Debug\forLoopsGUI.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\bin\Debug\forLoopsGUI.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.Fpizza.resources
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.Properties.Resources.resources
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.csproj.GenerateResource.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 5\forLoopsGUI\forLoopsGUI\obj\Debug\forLoopsGUI.pdb

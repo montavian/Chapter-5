@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\bin\Debug\netcoreapp2.0\SumInt.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\bin\Debug\netcoreapp2.0\SumInt.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\bin\Debug\netcoreapp2.0\SumInt.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\bin\Debug\netcoreapp2.0\SumInt.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\bin\Debug\netcoreapp2.0\SumInt.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\SumInt\SumInt\obj\Debug\netcoreapp2.0\SumInt.csprojAssemblyReference.cache

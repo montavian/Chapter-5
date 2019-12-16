@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\bin\Debug\netcoreapp2.0\debugging 5.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\bin\Debug\netcoreapp2.0\debugging 5.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\bin\Debug\netcoreapp2.0\debugging 5.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\bin\Debug\netcoreapp2.0\debugging 5.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\bin\Debug\netcoreapp2.0\debugging 5.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\debugging 5\debugging 5\obj\Debug\netcoreapp2.0\debugging 5.pdb

@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\bin\Debug\netcoreapp2.0\Guessing game 2.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\bin\Debug\netcoreapp2.0\Guessing game 2.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\bin\Debug\netcoreapp2.0\Guessing game 2.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\bin\Debug\netcoreapp2.0\Guessing game 2.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\bin\Debug\netcoreapp2.0\Guessing game 2.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\Guessing game 2\Guessing game 2\obj\Debug\netcoreapp2.0\Guessing game 2.pdb

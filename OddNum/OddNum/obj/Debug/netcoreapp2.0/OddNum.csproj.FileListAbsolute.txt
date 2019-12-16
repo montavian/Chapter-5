@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\bin\Debug\netcoreapp2.0\OddNum.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\bin\Debug\netcoreapp2.0\OddNum.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\bin\Debug\netcoreapp2.0\OddNum.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\bin\Debug\netcoreapp2.0\OddNum.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\bin\Debug\netcoreapp2.0\OddNum.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\OddNum\OddNum\obj\Debug\netcoreapp2.0\OddNum.pdb

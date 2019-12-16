@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\bin\Debug\netcoreapp2.0\otototo.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\bin\Debug\netcoreapp2.0\otototo.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\bin\Debug\netcoreapp2.0\otototo.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\bin\Debug\netcoreapp2.0\otototo.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\bin\Debug\netcoreapp2.0\otototo.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\otototo\otototo\obj\Debug\netcoreapp2.0\otototo.pdb

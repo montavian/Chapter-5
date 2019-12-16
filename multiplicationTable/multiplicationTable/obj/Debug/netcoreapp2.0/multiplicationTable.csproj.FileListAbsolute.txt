@@ -1,0 +1,10 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 5\multiplicationTable\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.pdb
